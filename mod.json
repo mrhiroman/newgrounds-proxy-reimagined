@@ -1,28 +1,25 @@
 {
-	"geode": "4.5.0",
-	"version": "v1.0.2",
-	"id": "dankmeme.newgrounds-proxy-reimagined",
-	"name": "Newgrounds Proxy Reimagined",
-	"developers": [
-		"dankmeme",
-		"relative"
-	],
-	"description": "Uses Cloudflare (and a custom server) to cache songs from Newgrounds",
-	"gd": {
-		"android": "*",
-		"win": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
-	},
-	"links": {
-		"source": "https://github.com/dankmeme01/newgrounds-proxy-reimagined"
-	},
-	"settings": {
-		"url": {
-			"name": "Proxy URL",
-			"type": "string",
-			"default": "",
-			"filter": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890:/-_?.=+~!@#$%^&*()[]|{}\\';.,\"<>"
-		}
-	}
+  "geode": "5.0.1",
+  "version": "v1.0.3",
+  "id": "h1rrka.newgrounds-proxy-reimagined2",
+  "name": "Newgrounds Proxy Reimagined v2",
+  "developers": ["h1rkka", "dankmeme", "relative"],
+  "description": "Uses Cloudflare (and a custom server) to cache songs from Newgrounds",
+  "gd": {
+    "android": "*",
+    "win": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "links": {
+    "source": "https://github.com/mrhiroman/newgrounds-proxy-reimagined"
+  },
+  "settings": {
+    "url": {
+      "name": "Proxy URL",
+      "type": "string",
+      "default": "",
+      "filter": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890:/-_?.=+~!@#$%^&*()[]|{}\\';.,\"<>"
+    }
+  }
 }
