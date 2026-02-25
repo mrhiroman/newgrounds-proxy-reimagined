@@ -4,7 +4,7 @@
   "id": "h1rrka.newgrounds-proxy-reimagined2",
   "name": "Newgrounds Proxy Reimagined v2",
   "developers": ["h1rkka", "dankmeme", "relative"],
-  "description": "Uses Cloudflare (and a custom server) to cache songs from Newgrounds",
+  "description": "Uses a custom server to proxy songs from Newgrounds",
   "gd": {
     "android": "*",
     "win": "2.2081",
